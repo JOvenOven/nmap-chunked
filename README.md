@@ -17,9 +17,6 @@
 
 ## Preview
 
-Add your screenshots here:
-
-```md
 ![Start screen](screenshots/01-start.png)
 
 ![Cooldown](screenshots/02-cooldown.png)
@@ -27,7 +24,6 @@ Add your screenshots here:
 ![Cooldown](screenshots/03-summary.png)
 
 ![Final report](screenshots/04-summary.png)
-```
 
 ---
 
